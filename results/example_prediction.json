@@ -1,0 +1,26 @@
+{
+  "source_row": 1152,
+  "features": {
+    "fixed acidity": 8.3,
+    "volatile acidity": 0.6,
+    "citric acid": 0.25,
+    "residual sugar": 2.2,
+    "chlorides": 0.118,
+    "free sulfur dioxide": 9.0,
+    "total sulfur dioxide": 38.0,
+    "density": 0.99616,
+    "pH": 3.15,
+    "sulphates": 0.53,
+    "alcohol": 9.8
+  },
+  "actual": 5,
+  "predicted": 5,
+  "probabilities": [
+    0.012707373782526843,
+    0.047666383019157973,
+    0.5734046498287586,
+    0.34448848870213133,
+    0.01711926563144341,
+    0.004613839035981745
+  ]
+}

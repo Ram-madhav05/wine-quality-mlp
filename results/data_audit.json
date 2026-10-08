@@ -1,0 +1,52 @@
+{
+  "source": "https://archive.ics.uci.edu/static/public/186/wine+quality.zip",
+  "sha256": "4a402cf041b025d4566d954c3b9ba8635a3a8a01e039005d97d6a710278cf05e",
+  "original_shape": [
+    1599,
+    12
+  ],
+  "duplicates_removed": 240,
+  "unique_records": 1359,
+  "missing_values": 0,
+  "split_sizes": {
+    "train": 815,
+    "validation": 272,
+    "test": 272
+  },
+  "features": [
+    "fixed acidity",
+    "volatile acidity",
+    "citric acid",
+    "residual sugar",
+    "chlorides",
+    "free sulfur dioxide",
+    "total sulfur dioxide",
+    "density",
+    "pH",
+    "sulphates",
+    "alcohol"
+  ],
+  "labels": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "split_seed": 42,
+  "initialization_seeds": [
+    11,
+    22,
+    33,
+    44,
+    55
+  ],
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "sklearn": "1.8.0",
+  "matplotlib": "3.10.8",
+  "joblib": "1.5.3",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.39"
+}
